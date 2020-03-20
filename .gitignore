@@ -1,8 +1,14 @@
+# macOS
+.DS_Store
+
 # binary file
-*.bin
+*.out
 
 # draft
 draft.c
 
 # created by Vim
 *.swp
+
+# compile information
+*.dSYM
